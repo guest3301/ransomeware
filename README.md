@@ -1,1 +1,1 @@
-# ransomeware
+# ransomeware.
