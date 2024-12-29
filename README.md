@@ -22,7 +22,7 @@ This is a Python-based simple ransomware. It is intended for educational and res
     ```
 
 ## Usage Examples
-To run the ransomware simulator, execute the following command:
+To run the program, execute the following command:
 ```bash
 python ransomware.py
 ```
@@ -37,3 +37,5 @@ If you want to contribute to this project, please follow these steps:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+_`This README.md file is written using AI.`_
